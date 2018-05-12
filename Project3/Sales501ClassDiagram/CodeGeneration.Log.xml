@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/PROGRAM FILES (X86)/MICROSOFT VISUAL STUDIO 14.0/COMMON7/IDE/EXTENSIONS/MICROSOFT/ARCHITECTURE TOOLS/EXTENSIBILITY/Logging/CodeGenLog.xslt"?>
+<Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log" Label="Code Generation/Text Transformation Log">
+  <MessageClass Name="Message" Label="Message" Option="Show informational messages" />
+  <MessageClass Name="Warning" Label="Warning" Option="Show warnings" />
+  <MessageClass Name="Error" Label="Error" Option="Show errors" />
+  <MessageClass Name="Property" Label="Property" Option="Show metadata" />
+  <MessageClass Name="Diagnostic" Label="Message" Option="Show diagnostic messages" />
+  <Message Timestamp="2018-04-19T15:23:44" Importance="High" Text="Code generation or text transformation started." />
+  <Message Timestamp="2018-04-19T15:23:44" Importance="Diagnostic" Text="Name = ClassTemplate" />
+  <Message Timestamp="2018-04-19T15:23:44" Importance="Diagnostic" Text="Overwrite = True" />
+  <Message Timestamp="2018-04-19T15:23:44" Importance="Diagnostic" Text="ProjectPath = ..\Sales501ClassDiagramLib\Sales501ClassDiagramLib.csproj" />
+  <Message Timestamp="2018-04-19T15:23:44" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2018-04-19T15:23:44" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2018-04-19T15:23:44" Importance="Diagnostic" Text="TemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4" />
+  <Message Timestamp="2018-04-19T15:23:44" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4" />
+  <Message Timestamp="2018-04-19T15:23:44" Importance="Medium" Text="Sales501ClassDiagram's Text Template Binding: 'ClassTemplate' will apply ClassTemplate.t4 to: 'Sales501ClassDiagram::Database' -  (Class), 'Sales501ClassDiagram::Item' -  (Class), 'Sales501ClassDiagram::Transaction' -  (Class), 'Sales501ClassDiagram::InputView' -  (Class), 'Sales501ClassDiagram::ReturnScreen' -  (Class), 'Sales501ClassDiagram::TransactionScreen' -  (Class), 'Sales501ClassDiagram::GenScreen' -  (Class), 'Sales501ClassDiagram::RebateScreen' -  (Class), 'Sales501ClassDiagram::SalesManager' -  (Class), 'Sales501ClassDiagram::RebateManager' -  (Class), 'Sales501ClassDiagram::ReturnsManager' -  (Class), 'Sales501ClassDiagram::Rebate' -  (Class) " />
+  <Message Timestamp="2018-04-19T15:24:22" Importance="Medium" Text="Project Added: C:\Users\Erik Homewood\Desktop\501\501 team\Project3\Sales501ClassDiagramLib\Sales501ClassDiagramLib.csproj" />
+  <Message Timestamp="2018-04-19T15:24:22" Importance="Medium" Text="'Sales501ClassDiagram::Database' -  (Class) : success (file created) - C:\Users\Erik Homewood\Desktop\501\501 team\Project3\Sales501ClassDiagramLib\GeneratedCode\Database.cs" />
+  <Message Timestamp="2018-04-19T15:24:23" Importance="Medium" Text="'Sales501ClassDiagram::Item' -  (Class) : success (file created) - C:\Users\Erik Homewood\Desktop\501\501 team\Project3\Sales501ClassDiagramLib\GeneratedCode\Item.cs" />
+  <Message Timestamp="2018-04-19T15:24:23" Importance="Medium" Text="'Sales501ClassDiagram::Transaction' -  (Class) : success (file created) - C:\Users\Erik Homewood\Desktop\501\501 team\Project3\Sales501ClassDiagramLib\GeneratedCode\Transaction.cs" />
+  <Message Timestamp="2018-04-19T15:24:24" Importance="Medium" Text="'Sales501ClassDiagram::InputView' -  (Class) : success (file created) - C:\Users\Erik Homewood\Desktop\501\501 team\Project3\Sales501ClassDiagramLib\GeneratedCode\InputView.cs" />
+  <Message Timestamp="2018-04-19T15:24:24" Importance="Medium" Text="'Sales501ClassDiagram::ReturnScreen' -  (Class) : success (file created) - C:\Users\Erik Homewood\Desktop\501\501 team\Project3\Sales501ClassDiagramLib\GeneratedCode\ReturnScreen.cs" />
+  <Message Timestamp="2018-04-19T15:24:25" Importance="Medium" Text="'Sales501ClassDiagram::TransactionScreen' -  (Class) : success (file created) - C:\Users\Erik Homewood\Desktop\501\501 team\Project3\Sales501ClassDiagramLib\GeneratedCode\TransactionScreen.cs" />
+  <Message Timestamp="2018-04-19T15:24:25" Importance="Medium" Text="'Sales501ClassDiagram::GenScreen' -  (Class) : success (file created) - C:\Users\Erik Homewood\Desktop\501\501 team\Project3\Sales501ClassDiagramLib\GeneratedCode\GenScreen.cs" />
+  <Message Timestamp="2018-04-19T15:24:26" Importance="Medium" Text="'Sales501ClassDiagram::RebateScreen' -  (Class) : success (file created) - C:\Users\Erik Homewood\Desktop\501\501 team\Project3\Sales501ClassDiagramLib\GeneratedCode\RebateScreen.cs" />
+  <Message Timestamp="2018-04-19T15:24:26" Importance="Medium" Text="'Sales501ClassDiagram::SalesManager' -  (Class) : success (file created) - C:\Users\Erik Homewood\Desktop\501\501 team\Project3\Sales501ClassDiagramLib\GeneratedCode\SalesManager.cs" />
+  <Message Timestamp="2018-04-19T15:24:27" Importance="Medium" Text="'Sales501ClassDiagram::RebateManager' -  (Class) : success (file created) - C:\Users\Erik Homewood\Desktop\501\501 team\Project3\Sales501ClassDiagramLib\GeneratedCode\RebateManager.cs" />
+  <Message Timestamp="2018-04-19T15:24:27" Importance="Medium" Text="'Sales501ClassDiagram::ReturnsManager' -  (Class) : success (file created) - C:\Users\Erik Homewood\Desktop\501\501 team\Project3\Sales501ClassDiagramLib\GeneratedCode\ReturnsManager.cs" />
+  <Message Timestamp="2018-04-19T15:24:28" Importance="Medium" Text="'Sales501ClassDiagram::Rebate' -  (Class) : success (file created) - C:\Users\Erik Homewood\Desktop\501\501 team\Project3\Sales501ClassDiagramLib\GeneratedCode\Rebate.cs" />
+  <Message Timestamp="2018-04-19T15:24:28" Importance="Diagnostic" Text="Name = InterfaceTemplate" />
+  <Message Timestamp="2018-04-19T15:24:28" Importance="Diagnostic" Text="Overwrite = True" />
+  <Message Timestamp="2018-04-19T15:24:28" Importance="Diagnostic" Text="ProjectPath = ..\Sales501ClassDiagramLib\Sales501ClassDiagramLib.csproj" />
+  <Message Timestamp="2018-04-19T15:24:28" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2018-04-19T15:24:28" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2018-04-19T15:24:28" Importance="Diagnostic" Text="TemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\InterfaceTemplate.t4" />
+  <Message Timestamp="2018-04-19T15:24:28" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\InterfaceTemplate.t4" />
+  <Message Timestamp="2018-04-19T15:24:28" Importance="Medium" Text="Sales501ClassDiagram's Text Template Binding: 'InterfaceTemplate' will apply InterfaceTemplate.t4 to: 'Sales501ClassDiagram::EnterRebateHandler' -  (Interface), 'Sales501ClassDiagram::TransactionHandler' -  (Interface), 'Sales501ClassDiagram::GenRebateHandler' -  (Interface), 'Sales501ClassDiagram::RetunHandler' -  (Interface), 'Sales501ClassDiagram::Observer' -  (Interface), 'Sales501ClassDiagram::Manager' -  (Interface) " />
+  <Message Timestamp="2018-04-19T15:24:29" Importance="Medium" Text="'Sales501ClassDiagram::EnterRebateHandler' -  (Interface) : success (file created) - C:\Users\Erik Homewood\Desktop\501\501 team\Project3\Sales501ClassDiagramLib\GeneratedCode\EnterRebateHandler.cs" />
+  <Message Timestamp="2018-04-19T15:24:29" Importance="Medium" Text="'Sales501ClassDiagram::TransactionHandler' -  (Interface) : success (file created) - C:\Users\Erik Homewood\Desktop\501\501 team\Project3\Sales501ClassDiagramLib\GeneratedCode\TransactionHandler.cs" />
+  <Message Timestamp="2018-04-19T15:24:30" Importance="Medium" Text="'Sales501ClassDiagram::GenRebateHandler' -  (Interface) : success (file created) - C:\Users\Erik Homewood\Desktop\501\501 team\Project3\Sales501ClassDiagramLib\GeneratedCode\GenRebateHandler.cs" />
+  <Message Timestamp="2018-04-19T15:24:30" Importance="Medium" Text="'Sales501ClassDiagram::RetunHandler' -  (Interface) : success (file created) - C:\Users\Erik Homewood\Desktop\501\501 team\Project3\Sales501ClassDiagramLib\GeneratedCode\RetunHandler.cs" />
+  <Message Timestamp="2018-04-19T15:24:30" Importance="Medium" Text="'Sales501ClassDiagram::Observer' -  (Interface) : success (file created) - C:\Users\Erik Homewood\Desktop\501\501 team\Project3\Sales501ClassDiagramLib\GeneratedCode\Observer.cs" />
+  <Message Timestamp="2018-04-19T15:24:31" Importance="Medium" Text="'Sales501ClassDiagram::Manager' -  (Interface) : success (file created) - C:\Users\Erik Homewood\Desktop\501\501 team\Project3\Sales501ClassDiagramLib\GeneratedCode\Manager.cs" />
+  <Message Timestamp="2018-04-19T15:24:31" Importance="Diagnostic" Text="Name = StructTemplate" />
+  <Message Timestamp="2018-04-19T15:24:31" Importance="Diagnostic" Text="Overwrite = True" />
+  <Message Timestamp="2018-04-19T15:24:31" Importance="Diagnostic" Text="ProjectPath = ..\Sales501ClassDiagramLib\Sales501ClassDiagramLib.csproj" />
+  <Message Timestamp="2018-04-19T15:24:31" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2018-04-19T15:24:31" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2018-04-19T15:24:31" Importance="Diagnostic" Text="TemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4" />
+  <Message Timestamp="2018-04-19T15:24:31" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4" />
+  <Message Timestamp="2018-04-19T15:24:31" Importance="Medium" Text="Sales501ClassDiagram's Text Template Binding: 'StructTemplate' will apply StructTemplate.t4 to: 'Sales501ClassDiagram::Database' -  (Class), 'Sales501ClassDiagram::Item' -  (Class), 'Sales501ClassDiagram::Transaction' -  (Class), 'Sales501ClassDiagram::InputView' -  (Class), 'Sales501ClassDiagram::ReturnScreen' -  (Class), 'Sales501ClassDiagram::TransactionScreen' -  (Class), 'Sales501ClassDiagram::GenScreen' -  (Class), 'Sales501ClassDiagram::RebateScreen' -  (Class), 'Sales501ClassDiagram::SalesManager' -  (Class), 'Sales501ClassDiagram::RebateManager' -  (Class), 'Sales501ClassDiagram::ReturnsManager' -  (Class), 'Sales501ClassDiagram::Rebate' -  (Class) " />
+  <Message Timestamp="2018-04-19T15:24:31" Importance="Diagnostic" Text="'Sales501ClassDiagram::Database' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2018-04-19T15:24:31" Importance="Diagnostic" Text="'Sales501ClassDiagram::Item' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2018-04-19T15:24:31" Importance="Diagnostic" Text="'Sales501ClassDiagram::Transaction' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2018-04-19T15:24:31" Importance="Diagnostic" Text="'Sales501ClassDiagram::InputView' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2018-04-19T15:24:31" Importance="Diagnostic" Text="'Sales501ClassDiagram::ReturnScreen' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2018-04-19T15:24:31" Importance="Diagnostic" Text="'Sales501ClassDiagram::TransactionScreen' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2018-04-19T15:24:32" Importance="Diagnostic" Text="'Sales501ClassDiagram::GenScreen' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2018-04-19T15:24:32" Importance="Diagnostic" Text="'Sales501ClassDiagram::RebateScreen' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2018-04-19T15:24:32" Importance="Diagnostic" Text="'Sales501ClassDiagram::SalesManager' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2018-04-19T15:24:32" Importance="Diagnostic" Text="'Sales501ClassDiagram::RebateManager' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2018-04-19T15:24:32" Importance="Diagnostic" Text="'Sales501ClassDiagram::ReturnsManager' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2018-04-19T15:24:32" Importance="Diagnostic" Text="'Sales501ClassDiagram::Rebate' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2018-04-19T15:24:32" Importance="Diagnostic" Text="The selection included 28 elements which were not bound to a template." />
+  <Message Timestamp="2018-04-19T15:24:32" Importance="Diagnostic" Text="'Sales501ClassDiagram::' -  (Association): no bound template." />
+  <Message Timestamp="2018-04-19T15:24:32" Importance="Diagnostic" Text="'Sales501ClassDiagram::' -  (Association): no bound template." />
+  <Message Timestamp="2018-04-19T15:24:32" Importance="Diagnostic" Text="'Sales501ClassDiagram::' -  (Association): no bound template." />
+  <Message Timestamp="2018-04-19T15:24:32" Importance="Diagnostic" Text="'Sales501ClassDiagram::' -  (Association): no bound template." />
+  <Message Timestamp="2018-04-19T15:24:32" Importance="Diagnostic" Text="'Sales501ClassDiagram::' -  (Association): no bound template." />
+  <Message Timestamp="2018-04-19T15:24:32" Importance="Diagnostic" Text="'9911fa43-2a40-4702-81fb-94158346182f' -  (Comment): no bound template." />
+  <Message Timestamp="2018-04-19T15:24:32" Importance="Diagnostic" Text="'d91d7840-01c1-406b-b194-fe5a6e92afbf' -  (Comment): no bound template." />
+  <Message Timestamp="2018-04-19T15:24:32" Importance="Diagnostic" Text="'Sales501ClassDiagram::' -  (Association): no bound template." />
+  <Message Timestamp="2018-04-19T15:24:32" Importance="Diagnostic" Text="'Sales501ClassDiagram::' -  (Association): no bound template." />
+  <Message Timestamp="2018-04-19T15:24:32" Importance="Diagnostic" Text="'Sales501ClassDiagram::' -  (Association): no bound template." />
+  <Message Timestamp="2018-04-19T15:24:32" Importance="Diagnostic" Text="'Sales501ClassDiagram::' -  (Association): no bound template." />
+  <Message Timestamp="2018-04-19T15:24:32" Importance="Diagnostic" Text="'Sales501ClassDiagram::' -  (InterfaceRealization): no bound template." />
+  <Message Timestamp="2018-04-19T15:24:32" Importance="Diagnostic" Text="'Sales501ClassDiagram::' -  (Association): no bound template." />
+  <Message Timestamp="2018-04-19T15:24:32" Importance="Diagnostic" Text="'Sales501ClassDiagram::' -  (InterfaceRealization): no bound template." />
+  <Message Timestamp="2018-04-19T15:24:32" Importance="Diagnostic" Text="'Sales501ClassDiagram::' -  (InterfaceRealization): no bound template." />
+  <Message Timestamp="2018-04-19T15:24:32" Importance="Diagnostic" Text="'Sales501ClassDiagram::' -  (InterfaceRealization): no bound template." />
+  <Message Timestamp="2018-04-19T15:24:32" Importance="Diagnostic" Text="'Sales501ClassDiagram::' -  (InterfaceRealization): no bound template." />
+  <Message Timestamp="2018-04-19T15:24:32" Importance="Diagnostic" Text="'Sales501ClassDiagram::' -  (InterfaceRealization): no bound template." />
+  <Message Timestamp="2018-04-19T15:24:32" Importance="Diagnostic" Text="'Sales501ClassDiagram::' -  (InterfaceRealization): no bound template." />
+  <Message Timestamp="2018-04-19T15:24:32" Importance="Diagnostic" Text="'Sales501ClassDiagram::' -  (Association): no bound template." />
+  <Message Timestamp="2018-04-19T15:24:32" Importance="Diagnostic" Text="'Sales501ClassDiagram::' -  (Association): no bound template." />
+  <Message Timestamp="2018-04-19T15:24:32" Importance="Diagnostic" Text="'Sales501ClassDiagram::' -  (Association): no bound template." />
+  <Message Timestamp="2018-04-19T15:24:32" Importance="Diagnostic" Text="'Sales501ClassDiagram::' -  (Association): no bound template." />
+  <Message Timestamp="2018-04-19T15:24:32" Importance="Diagnostic" Text="'Sales501ClassDiagram::' -  (InterfaceRealization): no bound template." />
+  <Message Timestamp="2018-04-19T15:24:32" Importance="Diagnostic" Text="'Sales501ClassDiagram::' -  (Dependency): no bound template." />
+  <Message Timestamp="2018-04-19T15:24:32" Importance="Diagnostic" Text="'Sales501ClassDiagram::' -  (Association): no bound template." />
+  <Message Timestamp="2018-04-19T15:24:32" Importance="Diagnostic" Text="'Sales501ClassDiagram::' -  (Association): no bound template." />
+  <Message Timestamp="2018-04-19T15:24:32" Importance="Diagnostic" Text="'Sales501ClassDiagram::' -  (Association): no bound template." />
+  <Message Timestamp="2018-04-19T15:24:32" Importance="High" Text="Code generation complete. Errors: 0. Warnings: 0." />
+</Log>

@@ -1,0 +1,2 @@
+D:\School Stuff\Personal repo\Project 4\Project 4\bin\Debug\Project 4.exe.config
+D:\School Stuff\Personal repo\Rebate system\Project 4\bin\Debug\Project 4.exe.config

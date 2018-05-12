@@ -1,0 +1,18 @@
+c:\users\rylankasitz\documents\visual studio 2015\Projects\Sales501\Sales501\bin\Debug\Sales501.exe.config
+c:\users\rylankasitz\documents\visual studio 2015\Projects\Sales501\Sales501\obj\Debug\Sales501.csprojResolveAssemblyReference.cache
+c:\users\rylankasitz\documents\visual studio 2015\Projects\Sales501\Sales501\bin\Debug\Sales501.exe
+c:\users\rylankasitz\documents\visual studio 2015\Projects\Sales501\Sales501\bin\Debug\Sales501.pdb
+c:\users\rylankasitz\documents\visual studio 2015\Projects\Sales501\Sales501\obj\Debug\Sales501.exe
+c:\users\rylankasitz\documents\visual studio 2015\Projects\Sales501\Sales501\obj\Debug\Sales501.pdb
+C:\Users\rylankasitz\Source\Repos\KasitzRylan-course-work\Project1\Sales501\Sales501\bin\Debug\Sales501.exe.config
+C:\Users\rylankasitz\Source\Repos\KasitzRylan-course-work\Project1\Sales501\Sales501\obj\Debug\Sales501.exe
+C:\Users\rylankasitz\Source\Repos\KasitzRylan-course-work\Project1\Sales501\Sales501\obj\Debug\Sales501.pdb
+C:\Users\rylankasitz\Source\Repos\KasitzRylan-course-work\Project1\Sales501\Sales501\bin\Debug\Sales501.exe
+C:\Users\rylankasitz\Source\Repos\KasitzRylan-course-work\Project1\Sales501\Sales501\bin\Debug\Sales501.pdb
+C:\Users\rylankasitz\Source\Repos\KasitzRylan-course-work\Project1\Sales501\Sales501\obj\Debug\Sales501.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Source\Repos\CIS501S18-T03A\Project3\Sales501\Sales501\bin\Debug\Sales501.exe.config
+C:\Users\Andrew\Source\Repos\CIS501S18-T03A\Project3\Sales501\Sales501\obj\Debug\Sales501.exe
+C:\Users\Andrew\Source\Repos\CIS501S18-T03A\Project3\Sales501\Sales501\obj\Debug\Sales501.pdb
+C:\Users\Bayler\Source\Repos\CIS501S18-T03A\Project3\Sales501\Sales501\bin\Debug\Sales501.exe.config
+C:\Users\Bayler\Source\Repos\CIS501S18-T03A\Project3\Sales501\Sales501\obj\Debug\Sales501.exe
+C:\Users\Bayler\Source\Repos\CIS501S18-T03A\Project3\Sales501\Sales501\obj\Debug\Sales501.pdb
